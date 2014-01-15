@@ -5,5 +5,6 @@
 .showgrid {
 	background: url("../img/grid-bg.png") repeat-y;
 }
-h1 {font-family: 'Ribeye', cursive;}
-h3 {font-family: 'Ribeye', cursive;}
+h1 {font-family: 'Chango', cursive;}
+h3 {font-family: 'Chango', cursive;}
+p {font-family: 'News Cycle', sans-serif;}
